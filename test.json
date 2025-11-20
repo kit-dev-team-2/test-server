@@ -1,0 +1,36 @@
+[
+  {
+    "type": "detection",
+    "timestamp": "16:40:12",
+    "doa": 210,
+    "tags": [
+      { "label": "Speech", "score": 0.923 },
+      { "label": "Vehicle (Horn)", "score": 0.041 },
+      { "label": "Dog", "score": 0.019 }
+    ]
+  },
+  {
+    "type": "detection",
+    "timestamp": "16:40:15",
+    "doa": 150,
+    "tags": [
+      { "label": "Dog", "score": 0.85 },
+      { "label": "Speech", "score": 0.11 }
+    ]
+  },
+  {
+    "type": "detection",
+    "timestamp": "16:40:18",
+    "doa": 300,
+    "tags": [{ "label": "Car", "score": 0.98 }]
+  },
+  {
+    "type": "detection",
+    "timestamp": "16:40:15",
+    "doa": 150,
+    "tags": [
+      { "label": "laptop", "score": 0.85 },
+      { "label": "Speech", "score": 0.11 }
+    ]
+  },
+]
