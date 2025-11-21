@@ -29,8 +29,9 @@
     "timestamp": "16:40:15",
     "doa": 150,
     "tags": [
-      { "label": "laptop", "score": 0.85 },
+      { "label": "Laptop", "score": 0.85 },
       { "label": "Speech", "score": 0.11 }
     ]
-  }
+  },
+  
 ]
