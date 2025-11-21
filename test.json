@@ -32,6 +32,5 @@
       { "label": "Laptop", "score": 0.85 },
       { "label": "Speech", "score": 0.11 }
     ]
-  },
-  
+  }
 ]
