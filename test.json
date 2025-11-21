@@ -22,7 +22,7 @@
     "type": "detection",
     "timestamp": "16:40:18",
     "doa": 300,
-    "tags": [{ "label": "Car", "score": 0.98 }]
+    "tags": [{ "label": "Horn", "score": 0.98 }]
   },
   {
     "type": "detection",
@@ -32,5 +32,5 @@
       { "label": "laptop", "score": 0.85 },
       { "label": "Speech", "score": 0.11 }
     ]
-  },
+  }
 ]
